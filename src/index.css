@@ -25,3 +25,11 @@ ul {
 ul li {
   margin-left: 20px;
 }
+
+footer {
+  background-color: rgb(173, 173, 173);
+  position: fixed;
+  width: 100%;
+  margin: 0px;
+  bottom: 0;
+}
